@@ -11,3 +11,4 @@ Please treat this as a relatively friendly and peacable graffiti wall.
 * Create a pull/merge request, maybe I'll include your change
 
 - Ryan
+- Ghost Ryan
