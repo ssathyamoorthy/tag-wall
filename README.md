@@ -13,4 +13,4 @@ Please treat this as a relatively friendly and peacable graffiti wall.
 - Ryan
 - Ghost Ryan
 - MechaParrot
-- Scruffy
+- Scruffy Sucks
