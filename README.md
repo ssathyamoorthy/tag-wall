@@ -10,7 +10,7 @@ Please treat this as a relatively friendly and peacable graffiti wall.
 * It should include or be named in such a way as to include your name, alias or some other identifier (so that I know you - doesn't have to be full name)
 * Create a pull/merge request, maybe I'll include your change
 
-- Ryan Morris
+- RYANMORRIS
 - ~~Scott Macdonald~~
 - Ghost Ryan
 - MechaParrot
